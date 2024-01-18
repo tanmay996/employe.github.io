@@ -1,0 +1,22 @@
+[
+    {
+        "id":1001,
+        "name":"Tanmay",
+        "salary":15000
+    },
+    {
+        "id":1002,
+        "name":"dev",
+        "salary":15000
+    },
+    {
+        "id":1003,
+        "name":"deep",
+        "salary":15000
+    },
+    {
+        "id":1004,
+        "name":"harsh",
+        "salary":15000
+    }
+]
